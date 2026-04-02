@@ -76,3 +76,5 @@ powercfg /batteryreport
 ```powershell
 Get-PhysicalDisk | Select-Object FriendlyName, MediaType, HealthStatus, OperationalStatus
 ```
+
+https://quangtriip-my.sharepoint.com/:u:/g/personal/tuan_pa_qtip_com_vn/IQAa7VEusXynTbDA8y1kLheDAa71GOFqfonDlYVEfD2Czew?e=9AhcjG
