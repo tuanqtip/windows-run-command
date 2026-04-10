@@ -43,6 +43,7 @@ This document lists a variety of useful Run commands in Windows for quickly acce
 | `mstsc`             | Opens Remote Desktop Connection                   |
 | `cleanmgr`          | Opens Disk Cleanup Utility                        |
 | `msconfig`          | Opens System Configuration                        |
+| `netplwiz`          | User Accounts                                     |
 
 These commands can be entered into the Run dialog (Win + R) for quick access to the listed utilities.
 
