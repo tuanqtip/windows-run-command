@@ -79,3 +79,6 @@ Get-PhysicalDisk | Select-Object FriendlyName, MediaType, HealthStatus, Operatio
 ```
 
 https://quangtriip-my.sharepoint.com/:f:/g/personal/tuan_pa_qtip_com_vn/IgCi13T0Cd62SaOxcxoHGUoTAXeC-P7yM8uJd4Drr158leY?e=obHEXc
+
+echo 'eval "$(/usr/local/bin/brew shellenv)"' >> ~/.zprofile
+eval "$(/usr/local/bin/brew shellenv)"
